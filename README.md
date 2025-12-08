@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obsqrbtz&layout=compact&theme=transparent)
+(![GitHub Card]([https://githubcard.com/obsqrbtz.svg](https://githubcard.com/obsqrbtz.svg?d=OFpBWtJQ)))
